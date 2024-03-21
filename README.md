@@ -3,7 +3,7 @@
 ## Problem Statement
 The goal of this project is to develop a machine learning model that accurately predicts the product shipment status. The prediction will determine whether the product will be delivered on time or not based on historical data.
 
-## Flow Chart
+## Projret Flow 
 1. Data Collection
 2. Data Preprocessing
 3. Base Model
