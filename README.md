@@ -3,7 +3,7 @@
 #PROBLEM STATEMENT:
 Developing a machine learning model to accurately predict the product shipment status ,to predict whether the product will deliver on time or not by using past data.
 
-#Flow Chart
+#Flow Chart \n
 DATA COLLECTION
 DATA PREPROCESSING
 BASE MODEL
@@ -14,7 +14,7 @@ SECOND DATAFRAME
 FEATURE SELECTION
 FINAL DATAFRAME
 
-#DATASET INSIGHTS 
+#DATASET INSIGHTS \n
 This dataset contains 10099 rows and 12 columns
 
 #TARGET COLUMN
