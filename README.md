@@ -1,29 +1,31 @@
-# Shipment-Status-Prediction-using-ML
+# Shipment Status Prediction using Machine Learning
 
-## PROBLEM STATEMENT:
-Developing a machine learning model to accurately predict the product shipment status ,to predict whether the product will deliver on time or not by using past data.
+## Problem Statement
+The goal of this project is to develop a machine learning model that accurately predicts the product shipment status. The prediction will determine whether the product will be delivered on time or not based on historical data.
 
-## Flow Chart :
-1.DATA COLLECTION
-2.DATA PREPROCESSING
-3.BASE MODEL
-4.CLASS IMBALANCE TREATMENT
-5.EDA-OUTLIERS, 
-6.SKEWNESSTREATMENT
-7.MODEL  BUILDING
-8.SECOND DATAFRAME
-9.FEATURE SELECTION
-10.FINAL DATAFRAME
+## Flow Chart
+1. Data Collection
+2. Data Preprocessing
+3. Base Model
+4. Class Imbalance Treatment
+5. Exploratory Data Analysis (EDA) - Outliers, Skewness Treatment
+6. Model Building
+7. Second DataFrame
+8. Feature Selection
+9. Final DataFrame
 
-## DATASET INSIGHTS 
-This dataset contains 10099 rows and 12 columns
+## Dataset Insights
+- The dataset contains 10099 rows and 12 columns.
+- The target variable is "Reached_on_time," which is categorical with values one and zero.
+- There are 11 independent columns such as Warehouse Block, Cost of the Product, Weight of Product, Shipment Mode, etc., which impact the target variable.
 
-## TARGET COLUMN
- This target variable of this data is “Reached_on_time” which has the values one and zero. 
- The target variable is categorical.
- There are 11 independent columns like Warehouse Block, Cost of the Product, weight of product ,Shipment Mode that impacts the target variable.
+## Repository Structure
+- `data/`: Contains the dataset used for training and testing.
+- `notebooks/`: Jupyter notebooks for data preprocessing, model building, and evaluation.
+- `src/`: Python scripts for utility functions and model implementation.
+- `README.md`: Overview of the project, instructions for setup, and usage.
 
-
-
-
-
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your_username/Shipment-Status-Prediction-using-ML.git
