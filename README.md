@@ -3,7 +3,7 @@
 ## Problem Statement
 The goal of this project is to develop a machine learning model that accurately predicts the product shipment status. The prediction will determine whether the product will be delivered on time or not based on historical data.
 
-## Projret Flow 
+## Project Flow 
 1. Data Collection
 2. Data Preprocessing
 3. Base Model
@@ -24,8 +24,3 @@ The goal of this project is to develop a machine learning model that accurately 
 - `notebooks/`: Jupyter notebooks for data preprocessing, model building, and evaluation.
 - `src/`: Python scripts for utility functions and model implementation.
 - `README.md`: Overview of the project, instructions for setup, and usage.
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/Shipment-Status-Prediction-using-ML.git
